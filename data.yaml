@@ -1,0 +1,6 @@
+path: C:\Users\Noor\Documents\dataset_augmented
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: star
